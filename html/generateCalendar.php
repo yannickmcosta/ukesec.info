@@ -31,19 +31,6 @@
 		foreach ($period as $dt) {
 			foreach ($disconnectionRota as $dr) {
 				if ($dt->format("N") == $dr->dow) {
-					/*
-					BEGIN:VEVENT
-					DTSTAMP:20221025T170000Z
-					UID:c6a54f5e-bd22-3c9c-b4e3-2b36dc5c3d20
-					DTSTART:20221025T170000Z
-					DTEND:20221026T040000Z
-					CLASS:PUBLIC
-					DESCRIPTION: UK Scheduled Power Disconnection
-					SUMMARY;LANGUAGE=en:Disconnection Event
-					TRANSP:TRANSPARENT
-					END:VEVENT
-					*/
-
 					$eventIdentifier	=	$dr->dow . "/" . $dr->pid . "/" . $dr->lb . "/" . $dr->lod;
 
 					echo "BEGIN:VEVENT" . PHP_EOL;
@@ -72,43 +59,6 @@
 
 		echo "END:VCALENDAR" . PHP_EOL;
 
-		//echo json_encode($disconnectionRota);
 	} catch (Exception $e) {
 		echo $e;
 	}
-/*
-
-
-END:VCALENDAR
-
-function generateiCal() {
-	let calString = "";
-
-	let lb		=	$("#load_block").val();
-	let lod		=	$("#level_of_disconnection").val();
-
-	calString += "BEGIN:VCALENDAR\n";
-	calString += "VERSION:2.0\n";
-
-	for (let i = 0; i < jsonData.length; ++i) {
-		if (jsonData[i].lb == lb) {
-			if (jsonData[i].lod <= lod) {
-
-				console.log(moment("Monday at " + timePeriods[jsonData[i].pid].st).format("YYYYMMDD[T]HHmmss[Z]"));
-
-				calString += "BEGIN:VEVENT\n";
-				calString += "DTSTAMP:20221025T170000Z\n";
-				calString += "DTSTART:20221025T170000Z\n";
-				calString += "DTEND:20221026T040000Z\n";
-				calString += "SUMMARY:Power Disconnection Event - " + jsonData[i].dow + "/" + jsonData[i].pid + "/" + lb + "/" + jsonData[i].lod + "\n";
-				calString += "END:VEVENT\n";
-			}
-		}
-	}
-
-	calString += "END:VCALENDAR";
-
-	//console.log(calString);
-
-}
-*/
