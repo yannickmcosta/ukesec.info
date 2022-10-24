@@ -142,9 +142,6 @@
 				let lb		=	$("#load_block").val();
 				let lod		=	$("#level_of_disconnection").val();
 
-				console.log("Load Block: " + lb);
-				console.log("Level of Disconnection: " + lod);
-
 				for (let i = 0; i < jsonData.length; ++i) {
 					if (jsonData[i].lb == lb) {
 						if (jsonData[i].lod <= lod) {
@@ -158,9 +155,7 @@
 						}
 					}
 				}
-
 				$("#blackout_data").html(dataString);
-				console.log(dataString);
 			}
 		</script>
 	</body>
