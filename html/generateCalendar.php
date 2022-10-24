@@ -5,7 +5,7 @@
 		require(__DIR__ . "/classes/class.ESECEngine.php");
 
 		//header("Content-Type: application/json");
-		header("Content-Type: text/plain");
+		header("Content-Type: text/calendar");
 
 		$ESECEngine			=	new ESECEngine();
 		$datetime			=	new DateTime();
