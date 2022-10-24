@@ -7,7 +7,7 @@
 		</div>
 		<div class="col-md-3 offset-md-3">
 			<ul class="list-unstyled text-small">
-				<li><a class="" href="<?php echo APP_HTTP_SCHEME; ?><?php echo APP_URL_SLASH; ?>cookies">Cookies on this site</a></li>
+				<li><a class="" href="https://github.com/yannickmcosta/ukesec.info/" target="_blank"><i class="fa-brands fa-github"></i> Site on Github</a></li>
 			</ul>
 		</div>
 	</div>
