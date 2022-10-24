@@ -1,0 +1,3002 @@
+[
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "A",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "B",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "C",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "D",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "E",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "G",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "H",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "J",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "K",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "L",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "M",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "N",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "P",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "Q",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "R",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "S",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "T",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 1,
+	  "load_block": "U",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "A",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "B",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "C",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "D",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "E",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "G",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "H",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "J",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "K",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "L",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "M",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "N",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "P",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "Q",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "R",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "S",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "T",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 2,
+	  "load_block": "U",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "A",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "B",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "C",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "D",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "E",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "G",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "H",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "J",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "K",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "L",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "M",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "N",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "P",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "Q",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "R",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "S",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "T",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 3,
+	  "load_block": "U",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "A",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "B",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "C",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "D",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "E",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "G",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "H",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "J",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "K",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "L",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "M",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "N",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "P",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "Q",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "R",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "S",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "T",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 4,
+	  "load_block": "U",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "A",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "B",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "C",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "D",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "E",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "G",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "H",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "J",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "K",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "L",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "M",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "N",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "P",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "Q",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "R",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "S",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "T",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 5,
+	  "load_block": "U",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "A",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "B",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "C",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "D",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "E",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "G",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "H",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "J",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "K",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "L",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "M",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "N",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "P",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "Q",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "R",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "S",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "T",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 6,
+	  "load_block": "U",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "A",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "B",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "C",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "D",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "E",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "G",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "H",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "J",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "K",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "L",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "M",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "N",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "P",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "Q",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "R",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "S",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "T",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 7,
+	  "load_block": "U",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "A",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "B",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "C",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "D",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "E",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "G",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "H",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "J",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "K",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "L",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "M",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "N",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "P",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "Q",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "R",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "S",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "T",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 1,
+	  "period_id": 8,
+	  "load_block": "U",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "A",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "B",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "C",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "D",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "E",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "G",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "H",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "J",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "K",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "L",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "M",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "N",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "P",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "Q",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "R",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "S",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "T",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 1,
+	  "load_block": "U",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "A",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "B",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "C",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "D",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "E",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "G",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "H",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "J",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "K",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "L",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "M",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "N",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "P",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "Q",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "R",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "S",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "T",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 2,
+	  "load_block": "U",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "A",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "B",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "C",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "D",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "E",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "G",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "H",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "J",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "K",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "L",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "M",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "N",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "P",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "Q",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "R",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "S",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "T",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 3,
+	  "load_block": "U",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "A",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "B",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "C",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "D",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "E",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "G",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "H",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "J",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "K",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "L",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "M",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "N",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "P",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "Q",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "R",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "S",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "T",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 4,
+	  "load_block": "U",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "A",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "B",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "C",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "D",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "E",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "G",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "H",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "J",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "K",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "L",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "M",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "N",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "P",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "Q",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "R",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "S",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "T",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 5,
+	  "load_block": "U",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "A",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "B",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "C",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "D",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "E",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "G",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "H",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "J",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "K",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "L",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "M",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "N",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "P",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "Q",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "R",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "S",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "T",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 6,
+	  "load_block": "U",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "A",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "B",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "C",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "D",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "E",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "G",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "H",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "J",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "K",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "L",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "M",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "N",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "P",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "Q",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "R",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "S",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "T",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 7,
+	  "load_block": "U",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "A",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "B",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "C",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "D",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "E",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "G",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "H",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "J",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "K",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "L",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "M",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "N",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "P",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "Q",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "R",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "S",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "T",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 2,
+	  "period_id": 8,
+	  "load_block": "U",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "A",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "B",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "C",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "D",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "E",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "G",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "H",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "J",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "K",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "L",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "M",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "N",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "P",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "Q",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "R",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "S",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "T",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 1,
+	  "load_block": "U",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "A",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "B",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "C",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "D",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "E",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "G",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "H",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "J",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "K",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "L",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "M",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "N",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "P",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "Q",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "R",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "S",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "T",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 2,
+	  "load_block": "U",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "A",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "B",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "C",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "D",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "E",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "G",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "H",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "J",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "K",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "L",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "M",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "N",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "P",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "Q",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "R",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "S",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "T",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 3,
+	  "load_block": "U",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "A",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "B",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "C",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "D",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "E",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "G",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "H",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "J",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "K",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "L",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "M",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "N",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "P",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "Q",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "R",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "S",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "T",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 4,
+	  "load_block": "U",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "A",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "B",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "C",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "D",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "E",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "G",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "H",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "J",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "K",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "L",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "M",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "N",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "P",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "Q",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "R",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "S",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "T",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 5,
+	  "load_block": "U",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "A",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "B",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "C",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "D",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "E",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "G",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "H",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "J",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "K",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "L",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "M",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "N",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "P",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "Q",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "R",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "S",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "T",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 6,
+	  "load_block": "U",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "A",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "B",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "C",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "D",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "E",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "G",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "H",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "J",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "K",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "L",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "M",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "N",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "P",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "Q",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "R",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "S",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "T",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 7,
+	  "load_block": "U",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "A",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "B",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "C",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "D",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "E",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "G",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "H",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "J",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "K",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "L",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "M",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "N",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "P",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "Q",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "R",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "S",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "T",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 3,
+	  "period_id": 8,
+	  "load_block": "U",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "A",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "B",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "C",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "D",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "E",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "G",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "H",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "J",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "K",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "L",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "M",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "N",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "P",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "Q",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "R",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "S",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "T",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 1,
+	  "load_block": "U",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "A",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "B",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "C",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "D",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "E",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "G",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "H",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "J",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "K",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "L",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "M",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "N",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "P",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "Q",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "R",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "S",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "T",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 2,
+	  "load_block": "U",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "A",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "B",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "C",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "D",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "E",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "G",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "H",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "J",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "K",
+	  "level_of_disconnection": 14
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "L",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "M",
+	  "level_of_disconnection": 1
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "N",
+	  "level_of_disconnection": 2
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "P",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "Q",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "R",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "S",
+	  "level_of_disconnection": 17
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "T",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 3,
+	  "load_block": "U",
+	  "level_of_disconnection": 4
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "A",
+	  "level_of_disconnection": 18
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "B",
+	  "level_of_disconnection": 12
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "C",
+	  "level_of_disconnection": 15
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "D",
+	  "level_of_disconnection": 6
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "E",
+	  "level_of_disconnection": 7
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "G",
+	  "level_of_disconnection": 8
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "H",
+	  "level_of_disconnection": 11
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "J",
+	  "level_of_disconnection": 5
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "K",
+	  "level_of_disconnection": 9
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "L",
+	  "level_of_disconnection": 16
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "M",
+	  "level_of_disconnection": 10
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "N",
+	  "level_of_disconnection": 13
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "P",
+	  "level_of_disconnection": 3
+	},
+	{
+	  "day_of_week": 4,
+	  "period_id": 4,
+	  "load_block": "Q",
+	  "level_of_disconnection": 1
+	}
+  ]

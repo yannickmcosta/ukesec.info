@@ -1,0 +1,17 @@
+version: '3'
+services:
+  ukesec-web:
+    container_name: ukesec-web
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 127.0.0.1:49155:8080
+    volumes:
+      - ./html:/var/www/html
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "5"
+        max-size: "10m"
