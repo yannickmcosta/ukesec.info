@@ -36,7 +36,7 @@
 			<div class="row mt-1">
 				<div class="col-lg-6 col-sm-12 col-xs-12">
 					<label for="load_block">What Load Block are you in?</label>
-					<select class="form-control mb-2" id="load_block" name="load_block" required="required" onchange="doCheck();">
+					<select class="form-control mb-2" id="load_block" name="load_block" required="required" onchange="doCalcCheck();">
 						<option value="" selected="selected" disabled="disabled">Please Select...</option>
 						<option value="A">A</option>
 						<option value="B">B</option>
@@ -60,7 +60,7 @@
 				</div>
 				<div class="col-lg-6 col-sm-12 col-xs-12">
 					<label for="level_of_disconnection">What Level of Disconnection do you want to check?</label>
-					<select class="form-control mb-2" id="level_of_disconnection" name="level_of_disconnection" required="required" onchange="doCheck();">
+					<select class="form-control mb-2" id="level_of_disconnection" name="level_of_disconnection" required="required" onchange="doCalcCheck();">
 						<option value="" disabled="disabled" selected="selected">Please Select...</option>
 						<option value="1">1</option>
 						<option value="2">2</option>

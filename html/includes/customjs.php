@@ -40,6 +40,32 @@
 		$("#bigResetButton").show();
 	}
 
+	function doCalcCheck() {
+		let dataString = "";
+
+		let lb		=	$("#load_block").val();
+		let lod		=	$("#level_of_disconnection").val();
+
+		if (lod == 18) {
+			dataString += '<tr><td colspan="5" align="center"><strong><i class="fas fa-fw fa-exclamation-triangle text-warning"></i> At Disconnection Level 18, power is cut to all load blocks, at all times of day <i class="fas fa-fw fa-exclamation-triangle text-warning"></i></strong></td></tr>';
+		} else {
+			for (let i = 0; i < jsonData.length; ++i) {
+				if (jsonData[i].lb == lb) {
+					if (jsonData[i].lod <= lod) {
+						dataString += "<tr>";
+						dataString += "<td>" + daysOfWeek[jsonData[i].dow] + "</td>";
+						dataString += "<td>" + timePeriods[jsonData[i].pid].st + "</td>";
+						dataString += "<td>" + timePeriods[jsonData[i].pid].et + "</td>";
+						dataString += "<td>" + lb + "</td>";
+						dataString += "<td>" + jsonData[i].lod + "</td>";
+						dataString += "</tr>";
+					}
+				}
+			}
+		}
+		$("#blackout_data").html(dataString);
+	}
+
 	function doReset() {
 		$("#blackout_data").html("");
 		$("#region_loadBlockSelector").show();
