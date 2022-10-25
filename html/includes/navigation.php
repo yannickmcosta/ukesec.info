@@ -15,7 +15,30 @@
 						<a class="nav-link" href="<?php echo APP_HTTP_SCHEME; ?><?php echo APP_URL_SLASH; ?>">Home</a>
 					</li>
 				<?php } ?>
+				<!-- Nav Item Separator -->
+				<?php if ($_SERVER['REQUEST_URI'] == "/about") { ?>
+					<li class="nav-item active">
+						<a class="nav-link" href="<?php echo APP_HTTP_SCHEME; ?><?php echo APP_URL_SLASH; ?>about">About <span class="sr-only">(current)</span></a>
+					</li>
+				<?php } else { ?>
+					<li class="nav-item">
+						<a class="nav-link" href="<?php echo APP_HTTP_SCHEME; ?><?php echo APP_URL_SLASH; ?>about">About</a>
+					</li>
+				<?php } ?>
+				<!-- Nav Item Separator -->
+				<?php if ($_SERVER['REQUEST_URI'] == "/calculator") { ?>
+					<li class="nav-item active">
+						<a class="nav-link" href="<?php echo APP_HTTP_SCHEME; ?><?php echo APP_URL_SLASH; ?>calculator">Calculator <span class="sr-only">(current)</span></a>
+					</li>
+				<?php } else { ?>
+					<li class="nav-item">
+						<a class="nav-link" href="<?php echo APP_HTTP_SCHEME; ?><?php echo APP_URL_SLASH; ?>calculator">Calculator</a>
+					</li>
+				<?php } ?>
 			</ul>
+		</div>
+		<div class="pull-right">
+			<span class="badge badge-success">Current UK Level of Disconnection: <?php echo CURRENT_LOD; ?></span>
 		</div>
 	</nav>
 </div>

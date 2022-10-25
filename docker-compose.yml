@@ -5,11 +5,30 @@ services:
     restart: always
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: web.Dockerfile
     ports:
       - 127.0.0.1:49255:8080
     volumes:
       - ./html:/var/www/html
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "5"
+        max-size: "10m"
+  ukesec-db:
+    container_name: ukesec-db
+    restart: always
+    build:
+      context: .
+      dockerfile: mariadb.Dockerfile
+    ports:
+      - 127.0.0.1:34306:3306
+    environment:
+      TZ: Europe/London
+      MYSQL_RANDOM_ROOT_PASSWORD: 1
+      MYSQL_DATABASE: ukesec_db
+      MYSQL_USER: ukesec_user
+      MYSQL_PASSWORD: PleaseChangeMe!
     logging:
       driver: "json-file"
       options:
