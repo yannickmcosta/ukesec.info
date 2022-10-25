@@ -18,6 +18,8 @@
 
 		$disconnectionRota	=	$ESECEngine->fetchDisconnectionRota($_GET['load_block']);
 
+		$ESECEngine->createLog();
+
 		$ESECEngine->handleLevel0();
 
 		echo "BEGIN:VCALENDAR" . PHP_EOL;
