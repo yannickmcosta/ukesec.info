@@ -25,8 +25,9 @@ For the scheduling view within this site, code from https://github.com/Yehzuna/j
 
 The below MIT License applies to the following files in this repository:
 
-assets/js/yehzuna.jquery.schedule.min.js
-assets/css/yehzuna.jquery.schedule.min.css
+* assets/js/yehzuna.jquery.schedule.min.js
+* assets/css/yehzuna.jquery.schedule.min.css
+
 ```
 MIT License
 
