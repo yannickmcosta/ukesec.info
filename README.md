@@ -19,4 +19,34 @@ As this data is parsed from a third party source, **it is provided without any w
 
 This site is not affiliated with HM Goverment or any Governmental Body, and has been created purely for educational purposes only.
 
+### Attributions
 
+For the scheduling view within this site, code from https://github.com/Yehzuna/jquery-schedule has been utilised. The distributables in minified form are bundled with this repository. The code in the original repository from @Yehzuna is licensed under the MIT License, and as such, it is included below:
+
+The below MIT License applies to the following files in this repository:
+
+assets/js/yehzuna.jquery.schedule.min.js
+assets/css/yehzuna.jquery.schedule.min.css
+```
+MIT License
+
+Copyright (c) 2017 Thomas BORUSZEWSKI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
