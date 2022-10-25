@@ -1,3 +1,4 @@
+<script src="<?php echo APP_HTTP_SCHEME; ?><?php echo APP_URL_SLASH;?>assets/js/yehzuna.jquery.schedule.min.js"></script>
 <script>
 	let jsonData = null;
 	let timePeriods = null;
@@ -14,7 +15,7 @@
 
 	function doCheck(lb) {
 		let dataString = "";
-		
+
 		let lod		=	<?php echo CURRENT_LOD; ?>
 
 		if (lod == 18) {
@@ -44,6 +45,7 @@
 
 	function doCalcCheck() {
 		let dataString = "";
+		let loadShedData = [];
 
 		let lb		=	$("#load_block").val();
 		let lod		=	$("#level_of_disconnection").val();
@@ -63,11 +65,56 @@
 						dataString += "<td>" + lb + "</td>";
 						dataString += "<td>" + jsonData[i].lod + "</td>";
 						dataString += "</tr>";
+
+						tempdata	=	{'day': (jsonData[i].dow - 1),'periods': [[timePeriods[jsonData[i].pid].st, timePeriods[jsonData[i].pid].et]]};
+						loadShedData.push(tempdata);
 					}
 				}
 			}
 		}
 		$("#blackout_data").html(dataString);
+		resetSchedule();
+		importSchedule(loadShedData);
+	}
+
+	function importSchedule(loadShedData) {
+		$('#schedule').jqs('import', loadShedData);
+	}
+
+	function resetSchedule() {
+		$('#schedule').jqs('reset');
+	}
+
+	function createSchedule() {
+		$('#schedule').jqs({
+			mode: 'read',
+			hour: 24,
+			days: 7,
+			periodDuration: 30,
+			periodOptions: true,
+			periodColors: [],
+			periodTitle: 'Disconnection Event',
+			periodBackgroundColor: 'rgba(50, 50, 50, 0.8)',
+			periodBorderColor: '#2a3cff',
+			periodTextColor: '#fff',
+			periodRemoveButton: 'Remove',
+			periodDuplicateButton: 'Duplicate',
+			periodTitlePlaceholder: 'Title',
+			daysList: [
+				'Monday',
+				'Tuesday',
+				'Wednesday',
+				'Thursday',
+				'Friday',
+				'Saturday',
+				'Sunday'
+			],
+			onInit: function () {},
+			onAddPeriod: function () {},
+			onRemovePeriod: function () {},
+			onDuplicatePeriod: function () {},
+			onClickPeriod: function () {}
+		});
 	}
 
 	function doReset() {
@@ -144,5 +191,6 @@
 
 	$(document).ready(function(){
 		anonymousStatisticCookieCheck();
+		createSchedule();
 	});
 </script>
