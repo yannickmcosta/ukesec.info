@@ -1,8 +1,8 @@
 <?php
 	if (file_exists("/tmp/development.env")) {
 		define("APP_HTTP_SCHEME", "http://");
-		define("APP_URL", "127.0.0.1:49155");
-		define("APP_URL_SLASH", "127.0.0.1:49155/");
+		define("APP_URL", "127.0.0.1:49255");
+		define("APP_URL_SLASH", "127.0.0.1:49255/");
 
 	} else {
 		define("APP_HTTP_SCHEME", "https://");
