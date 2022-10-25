@@ -25,7 +25,7 @@
 					<p>In the event of national power rationing, find out when you may likely be affected by planned disconnections.</p>
 					<p>All data on this website is from publicly available government data, <strong>and this site is provided as is, without any warranty whatsoever</strong>. You are encouraged to <a href="https://www.gov.uk/government/publications/electricity-supply-emergency-code" target="_blank">read the original PDF</a> to gain insight into the authoritative data, and contact your electricity supplier if you have any questions or concerns. This site is not affiliated with HM Goverment or any Governmental Body, and has been created purely for educational purposes.</p>
 					<div class="alert alert-success" align="center">
-						<strong><i class="fas fa-fw fa-check-circle"></i> Current UK Level of Disconnection: 0 - Emergency Code Not In Effect</strong><br />
+						<strong><i class="fas fa-fw fa-check-circle"></i> Current UK Level of Disconnection: <?php echo CURRENT_LOD; ?> - Emergency Code Not In Effect</strong><br />
 						<small>N.B. Level of Disconnections are cummulative. Meaning that if the Level of Disconnection currently in force is 4, all disconnections in levels 1, 2, 3 AND 4 apply.</small>
 					</div>
 				</div>
