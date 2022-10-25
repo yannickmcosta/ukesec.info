@@ -74,4 +74,47 @@
 				throw $e;
 			}
 		}
+
+		public function createLog() {
+			try {
+				// Log the useragent, if it's available
+				if (!self::isEmptyNull($_SERVER['HTTP_USER_AGENT'])) {
+					$userAgent	=	$_SERVER['HTTP_USER_AGENT'];
+				} else {
+					// Else, bin it, not important
+					$userAgent	=	NULL;
+				}
+
+				// Log the connecting IP, if available
+				if (!self::isEmptyNull($_SERVER['HTTP_CF_CONNECTING_IP'])) {
+					// Translate the Cloudflare proxy IP to the original IP
+					$ipAddress	=	$_SERVER['HTTP_CF_CONNECTING_IP'];
+					if (filter_var($ipAddress, FILTER_VALIDATE_IP, FILTER_FLAG_IPV4)) {
+						// Replace the last octet with a 0 to perform a degree of pseudanonymisation
+						$ipAddress = long2ip(ip2long($ipAddress) & 0xFFFFFF00);
+					} else {
+						// Do some IPv6 sanitisation here
+					}
+				} else if (!self::isEmptyNull($_SERVER['SERVER_ADDR'])) {
+					// This is more for development as it's unlikely to be correct in the wild
+					$ipAddress	=	$_SERVER['SERVER_ADDR'];
+					if (filter_var($ipAddress, FILTER_VALIDATE_IP, FILTER_FLAG_IPV4)) {
+						// Replace the last octet with a 0 to perform a degree of pseudanonymisation
+						$ipAddress = long2ip(ip2long($ipAddress) & 0xFFFFFF00);
+					} else {
+						// Do some IPv6 sanitisation here
+					}
+				} else {
+					// Else, bin it, not important
+					$ipAddress	=	NULL;
+				}
+
+				// Log the poll so that we can see who's relying on the calendar and how often it's refreshed
+				// figures may be skewed due to caching.
+				$this->dbHandler->query("INSERT INTO calendar_polls SET ip_address = ?, user_agent = ?, timestamp = NOW()", $ipAddress, $userAgent);
+			} catch (Exception $e) {
+				// This is a non-blocking function, if it fails, we're not too fussed as it's only analytics data
+				error_log($e);
+			}
+		}
 	}
