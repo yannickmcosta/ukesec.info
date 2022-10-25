@@ -12,8 +12,25 @@
 			}
 		}
 
+		private static function isEmptyNull($data) {
+			try {
+				if (empty($data) || !isset($data)) {
+					return TRUE;
+				} else {
+					return FALSE;
+				}
+			} catch (Exception $e) {
+				throw $e;
+			}
+		}
+
 		public function fetchDisconnectionRota($loadBlock) {
 			try {
+				if (self::isEmptyNull($loadBlock)) {
+					// return NULL
+					return $this->disconnectionRota;
+				}
+
 				$loadBlock	=	strtoupper($loadBlock);
 
 				$query		=	$this->dbHandler->query("SELECT day_of_week AS dow, disconnection_rota.period_id AS pid, load_block AS lb, level_of_disconnection AS lod, start_time AS st, end_time AS et FROM disconnection_rota INNER JOIN time_periods ON disconnection_rota.period_id = time_periods.period_id WHERE load_block = BINARY ? AND level_of_disconnection <= ? ORDER BY dow, pid;", $loadBlock, CURRENT_LOD);
