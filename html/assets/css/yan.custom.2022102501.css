@@ -39,3 +39,7 @@ html {
 .active-page {
 	text-decoration: underline;
 }
+
+.text-size-6em {
+	font-size: 6em;
+}
