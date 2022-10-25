@@ -19,6 +19,8 @@
 
 		if (lod == 18) {
 			dataString += '<tr><td colspan="5" align="center"><strong><i class="fas fa-fw fa-exclamation-triangle text-warning"></i> At Disconnection Level 18, power is cut to all load blocks, at all times of day <i class="fas fa-fw fa-exclamation-triangle text-warning"></i></strong></td></tr>';
+		} else if (lod == 0) {
+			dataString += '<tr><td colspan="5" align="center"><strong><i class="fas fa-fw fa-check-circle text-success"></i> At Disconnection Level 0, there is no power rationing taking place. Use the calculator to see how different levels of disconnection would affect you.</strong></td></tr>';
 		} else {
 			for (let i = 0; i < jsonData.length; ++i) {
 				if (jsonData[i].lb == lb) {
@@ -48,6 +50,8 @@
 
 		if (lod == 18) {
 			dataString += '<tr><td colspan="5" align="center"><strong><i class="fas fa-fw fa-exclamation-triangle text-warning"></i> At Disconnection Level 18, power is cut to all load blocks, at all times of day <i class="fas fa-fw fa-exclamation-triangle text-warning"></i></strong></td></tr>';
+		} else if (lod == 0) {
+			dataString += '<tr><td colspan="5" align="center"><strong><i class="fas fa-fw fa-check-circle text-success"></i> At Disconnection Level 0, there is no power rationing taking place. Use the calculator to see how different levels of disconnection would affect you.</strong></td></tr>';
 		} else {
 			for (let i = 0; i < jsonData.length; ++i) {
 				if (jsonData[i].lb == lb) {

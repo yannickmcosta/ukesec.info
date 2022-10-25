@@ -17,5 +17,5 @@
 	define("DB_PORT", 3306);
 
 	// Set the current National Level of Disconnection
-	// SET TO 5 FOR DEVELOPMENT ONLY
-	define("CURRENT_LOD", 1);
+	define("CURRENT_LOD", 0);
+	define("CURRENT_DEV_LOD", 2);
