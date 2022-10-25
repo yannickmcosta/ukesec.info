@@ -57,6 +57,9 @@
 		public function handleLevel0() {
 			try {
 				if (CURRENT_LOD == 0) {
+					// If the current level of disconnection is 0,
+					// give the user a blank calendar, with no events
+					// just to keep the calendar apps happy
 					echo "BEGIN:VCALENDAR" . PHP_EOL;
 					echo "VERSION:2.0" . PHP_EOL;
 					echo "PRODID:icalendar-ruby" . PHP_EOL;
