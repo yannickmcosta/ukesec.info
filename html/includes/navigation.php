@@ -35,6 +35,16 @@
 						<a class="nav-link" href="<?php echo APP_HTTP_SCHEME; ?><?php echo APP_URL_SLASH; ?>calculator-schedule">Calculator</a>
 					</li>
 				<?php } ?>
+				<!-- Nav Item Separator -->
+				<?php if ($_SERVER['REQUEST_URI'] == "/calendars") { ?>
+					<li class="nav-item active">
+						<a class="nav-link" href="<?php echo APP_HTTP_SCHEME; ?><?php echo APP_URL_SLASH; ?>calendars">Calendar <span class="sr-only">(current)</span></a>
+					</li>
+				<?php } else { ?>
+					<li class="nav-item">
+						<a class="nav-link" href="<?php echo APP_HTTP_SCHEME; ?><?php echo APP_URL_SLASH; ?>calendars">Calendar</a>
+					</li>
+				<?php } ?>
 			</ul>
 		</div>
 		<div class="pull-right">
