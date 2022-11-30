@@ -2,6 +2,8 @@
 
 <img width="1918" alt="image" src="https://user-images.githubusercontent.com/2808874/197890696-91b9c4e5-6e28-4bc8-acf7-8df3a91979de.png">
 
+[![Production Environment Rebuild](https://github.com/yannickmcosta/ukesec.info/actions/workflows/rebuild-prod.yml/badge.svg?branch=master)](https://github.com/yannickmcosta/ukesec.info/actions/workflows/rebuild-prod.yml)
+
 An interactive site created off the back of the UK Department for Business, Energy and Industrial Strategy's Electricity Supply Emergency Code. Designed to help people find when they could be subject to electricity blackouts.
 
 Site can be run in a docker container, in Apache, Nginx or any webserver flavour of your choice. It's pretty much a single-filer if you were that way inclined.
