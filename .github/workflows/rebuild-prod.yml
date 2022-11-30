@@ -1,0 +1,20 @@
+name: Rebuild Production Environment
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - name: executing remote ssh commands using password
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.SSH_HOSTS }}
+        username: ${{ secrets.SSH_USER }}
+        key: ${{ secrets.SSH_KEY }}
+        port: ${{ secrets.SSH_PORT }}
+        script: |
+          /usr/bin/git -C /opt/docker/ukesec.info pull
+          /usr/local/bin/docker-compose --project-directory /opt/docker/ukesec.info --file /opt/docker/ukesec.info/docker-compose.yml up --build -d
