@@ -22,7 +22,11 @@
 			<div class="row">
 				<div class="col-md">
 					<h3 class="display-5">UK Electricity Supply Emergency Code</h3>
-					<p>In the event of national power rationing, find out when you may likely be affected by planned disconnections. All data on this website is from publicly available government data, <strong>and this site is provided as is, without any warranty whatsoever</strong>. You are encouraged to <a href="https://www.gov.uk/government/publications/electricity-supply-emergency-code" target="_blank">read the original PDF</a> to gain insight into the authoritative data, and contact your electricity supplier if you have any questions or concerns. This site is not affiliated with HM Goverment or any Governmental Body, and has been created purely for educational purposes.</p>
+					<hr />
+					<h4 class="display-6">What's the Electricity Supply Emergency Code? (ESEC)</h4>
+					<p>To quote from the Government definition, "If a prolonged electricity shortage affects a specific region, or the whole country, electricity rationing may be necessary. The Electricity Supply Emergency Code (ESEC) outlines the process for ensuring fair distribution nationally while still protecting those who require special treatment, using a process known as 'rota disconnections'.".</p>
+					<h4 class="display-6">So what's special about this site?</h4>
+					<p>As is usually the case, sometimes Government documents can be challenging to interpret, so this site provides a degree of simplification, and interactivity, that the original PDF doesn't provide. In the event of national power rationing, here you can find out when you may likely be affected by planned disconnections. All data on this website is from publicly available government data, <strong>and this site is provided as is, without any warranty whatsoever</strong>. You are encouraged to <a href="https://www.gov.uk/government/publications/electricity-supply-emergency-code" target="_blank">read the original PDF</a> to gain insight into the authoritative data, and contact your electricity supplier if you have any questions or concerns. This site is not affiliated with HM Goverment or any Governmental Body, and has been created purely for educational purposes.</p>
 				</div>
 			</div>
 		</div>
