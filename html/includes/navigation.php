@@ -26,7 +26,7 @@
 					</li>
 				<?php } ?>
 				<!-- Nav Item Separator -->
-				<?php if ($_SERVER['REQUEST_URI'] == "/calculator") { ?>
+				<?php if ($_SERVER['REQUEST_URI'] == "/calculator-schedule") { ?>
 					<li class="nav-item active">
 						<a class="nav-link" href="<?php echo APP_HTTP_SCHEME; ?><?php echo APP_URL_SLASH; ?>calculator-schedule">Calculator <span class="sr-only">(current)</span></a>
 					</li>
