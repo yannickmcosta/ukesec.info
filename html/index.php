@@ -101,7 +101,7 @@
 				<div id="anonymousStatistics_incomplete">
 					<div class="row mt-1">
 						<div class="col-lg-4 offset-lg-2 col-sm-12 col-xs-12">
-							<label for="uk_county">What county are you located in? (optional)</label>
+							<label for="uk_county">What county are you located in? (optional) ((Work In Progress - Not currently operational))</label>
 							<select class="form-control mb-2" id="uk_county" name="uk_county">
 								<option value="" selected="selected" disabled="disabled">This is totally optional...</option>
 								<option value="Aberdeen City">Aberdeen City</option>
